@@ -274,3 +274,11 @@ body {
     color: #fff;
     transform: scale(1.2);
 }
+
+@media (max-width: 425px) {
+
+    .footer .social a {
+    margin: auto;
+    padding: 5px;
+    }
+}
